@@ -7,3 +7,10 @@ like:
 Etc with different visualizations for each week.
 
 Generated with Copilot (GPT 4.1).
+
+To install:
+
+- `npm install`
+- `npm run build`
+- copy the folder to your `.obsidian/plugins` folder
+- relaunch Obsidian, enable the plugin
