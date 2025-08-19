@@ -1,0 +1,13 @@
+{
+  "id": "cycle-check-plugin",
+  "name": "Cycle Check Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Prompts for week and cycle, then inserts a cycle check line with appropriate symbols and text.",
+  "author": "cpenner461",
+  "authorUrl": "https://github.com/cpenner461",
+  "fundingUrl": "",
+  "repo": "https://github.com/cpenner461/cycle-check-plugin",
+  "keywords": ["cycle", "week", "check", "insert", "template"],
+  "main": "main.js"
+}

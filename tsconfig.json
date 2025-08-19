@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "lib": ["ESNext", "DOM"],
+    "outDir": "./",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "include": ["main.ts"],
+  "exclude": []
+}

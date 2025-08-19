@@ -1,0 +1,17 @@
+{
+  "name": "cycle-check-plugin",
+  "version": "1.0.0",
+  "description": "Obsidian plugin to insert cycle check lines for specified week and cycle numbers.",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "cpenner461",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.19.11",
+    "obsidian": "^1.5.3",
+    "typescript": "^5.9.2"
+  }
+}
